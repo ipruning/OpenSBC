@@ -5,7 +5,6 @@
 [![](https://img.shields.io/github/forks/Spehhhhh/OpenSBC.svg)](https://github.com/Spehhhhh/OpenSBC/network/members)
 ![](https://img.shields.io/github/repo-size/Spehhhhh/OpenSBC.svg)
 [![](https://img.shields.io/github/contributors/Spehhhhh/OpenSBC.svg)](https://github.com/Spehhhhh/OpenSBC/graphs/contributors)
-[![](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github.com/Spehhhhh/OpenSBC/releases)
 
 ## 前言
 
@@ -30,9 +29,9 @@
 
 ## 共享许可
 
-CC-BY-NC-SA
+Creative Commons 署名-相同方式共享 4.0 国际
 
-署名-非商业性使用-相同方式共享
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 ## 附录
 
