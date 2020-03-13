@@ -3,7 +3,6 @@
 [![](https://img.shields.io/github/watchers/Spehhhhh/OpenSBC.svg)](https://github.com/Spehhhhh/OpenSBC/watchers)
 [![](https://img.shields.io/github/stars/Spehhhhh/OpenSBC.svg)](https://github.com/Spehhhhh/OpenSBC/stargazers)
 [![](https://img.shields.io/github/forks/Spehhhhh/OpenSBC.svg)](https://github.com/Spehhhhh/OpenSBC/network/members)
-![](https://img.shields.io/github/repo-size/Spehhhhh/OpenSBC.svg)
 [![](https://img.shields.io/github/contributors/Spehhhhh/OpenSBC.svg)](https://github.com/Spehhhhh/OpenSBC/graphs/contributors)
 
 ## 前言
